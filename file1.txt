@@ -4,4 +4,8 @@ third -my branch
 fourth -my branch
 some hot fix
 기능1추가
+<<<<<<< HEAD
 master commit1
+=======
+master commit2
+>>>>>>> 4bf6916 (master커밋2)
